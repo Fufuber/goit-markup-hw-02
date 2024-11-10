@@ -21,3 +21,37 @@ body {
 .logo-studio-word {
   color: #2e2f42;
 }
+
+/* navbar-studio-word */
+
+.nav-studio {
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.nav-studio :hover {
+  color: #404bbf;
+}
+
+.nav-studio :focus {
+  color: #404bbf;
+}
+
+/* navbar-portfolio-word */
+
+.nav-portfolio {
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.nav-portfolio :hover {
+  color: #404bbf;
+}
+
+.nav-portfolio :focus {
+  color: #404bbf;
+}
