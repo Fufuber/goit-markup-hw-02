@@ -31,11 +31,11 @@ body {
   color: #2e2f42;
 }
 
-.nav-studio :hover {
+.nav-studio:hover {
   color: #404bbf;
 }
 
-.nav-studio :focus {
+.nav-studio:focus {
   color: #404bbf;
 }
 
@@ -48,10 +48,10 @@ body {
   color: #2e2f42;
 }
 
-.nav-portfolio :hover {
+.nav-portfolio:hover {
   color: #404bbf;
 }
 
-.nav-portfolio :focus {
+.nav-portfolio:focus {
   color: #404bbf;
 }
