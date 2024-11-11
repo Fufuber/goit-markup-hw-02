@@ -110,6 +110,10 @@ body {
   color: #434455;
 }
 
+/* section 2 end */
+
+/* section 3  */
+
 .four-persons {
   background-color: #f4f4fd;
 }
@@ -141,6 +145,10 @@ body {
   letter-spacing: 0.02em;
 }
 
+/* section2 end */
+
+/* section 4  */
+
 .services-chapter {
   font-size: 36px;
   line-height: 1.11;
@@ -164,3 +172,21 @@ body {
   letter-spacing: 0.02em;
   color: #434455;
 }
+
+/* section 4 end */
+
+.bottom-chapter {
+  background-color: #2e2f42;
+}
+
+.bottom-logo {
+  color: #2e2f42;
+}
+
+.bottom-explanation {
+  line-height: 1.5;
+  color: #f4f4fd;
+  letter-spacing: 0.02em;
+}
+
+/* finish-him */
