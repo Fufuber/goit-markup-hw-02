@@ -55,6 +55,8 @@ body {
   color: #404bbf;
 }
 
+/* main-head-chapter */
+
 .main-head {
   background-color: #2e2f42;
 }
@@ -67,12 +69,14 @@ body {
   color: #ffffff;
 }
 
+/* button */
+
 .button-css {
   background-color: #4d5ae5;
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
-  line height: 1.5;
+  line-height: 1.5;
   letter-spacing: 0.04em;
   color: #ffffff;
   cursor: pointer;
@@ -83,6 +87,5 @@ body {
 }
 
 .button-css:focus {
-background-color: #404bbf;
+  background-color: #404bbf;
 }
-
